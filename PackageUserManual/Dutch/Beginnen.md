@@ -20,7 +20,7 @@ Ga eventueel akkoord met het activeren van een 'personal license'.
 
 Kies in het 'Install Unity Editor' scherm rechtsonderin 'skip installation'. Wij willen namelijk een specifieke versie gaan installeren.
 
-Installeer via 'Installs / Install Editor' de LTS (long term service) versie 2020.3.*
+Installeer via 'Installs / Install Editor' de LTS (long term service) versie 2020.3.28f1
 
 ![image-20220509104007559](./imgs/beginnen/image0.png)
 
